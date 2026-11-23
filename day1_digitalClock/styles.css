@@ -1,0 +1,33 @@
+body{
+    position: relative;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+table{
+    padding: 20px 0px 20px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+}
+
+.clock{
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    /* margin: 10px 10px ; */
+    
+}
+.clockMeme{
+    width: 350px;
+    height: 350px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    
+    /* margin: 20px 10px; */
+}
