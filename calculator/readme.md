@@ -25,7 +25,6 @@ Border spacing property in css which is used to create space between row and col
 
 
 ### what was difficult
+Connecting java code to front end 
+i used to table tags for calculator but i want to change them to button and style those buttons which i will be doing tommorow
 
-### Learnings
-
-### Key points
