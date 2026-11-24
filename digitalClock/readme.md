@@ -1,7 +1,7 @@
 ### Day 1 - Digital Clock
 
 Date: 23 nov 2026
-Time spent: 60 minutes (9:30 A.M. To 10:30 A.M.)
+Time: 9:30 A.M. To 10:30 A.M.
 
 
 ### What I built:
@@ -42,4 +42,3 @@ Connecting backend (server)
 Today i have just written seperate jav code but did the link the code with backend to daiplay the exact time and date 
 Inorder to make java code interactive with the web page i have to use java as backend 
 But as of my knowledge for today i cannot do it on own so i left so that i can learn the other day and integrate then. 
- 
