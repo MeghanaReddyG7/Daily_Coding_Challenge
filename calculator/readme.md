@@ -34,3 +34,10 @@ Time: 6:15 to 6:45
 
 Modified calculator to buttons so that interaction will be easy 
 Still Styling is left
+
+
+### day 4 
+Date: 26 nov 2026
+Time: 8:30 to 9:30
+
+Added display button for showing the result 
